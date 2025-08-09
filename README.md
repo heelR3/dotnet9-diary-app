@@ -4,6 +4,11 @@ A simple personal diary web application built with **ASP.NET Core MVC** and **En
 It allows you to **Create**, **Read**, **Update**, and **Delete** diary entries.  
 Uses **Microsoft SQL Server** as the database.
 
+**Tutorial Link**:
+<a href="https://youtu.be/SWdCMsLybQU?si=pcqjb30oT2mT51cX" target="_blank">
+    ASP.NET 9 MVC Tutorial for Beginners - C# web development made easy
+</a>
+
 ---
 
 ## ✨ Features
