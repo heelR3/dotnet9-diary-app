@@ -1,0 +1,19 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container text-center mt-5">
+    <h1 class="mb-2">Welcome to Your Personal Diary</h1>
+    <p class="lead mb-5">Capture your thoughts, one day at a time.</p>
+
+    <div class="d-flex justify-content-center ">
+        <a asp-controller="DiaryEntries" asp-action="Index" class="btn btn-primary">
+            Start Adding Now
+        </a>
+    </div>
+</div>
+
+
+@section Scripts{
+
+}
